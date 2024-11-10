@@ -1,0 +1,13 @@
+{
+  "dabigfocus.config.customization.enabled": "Включить настройку",
+  "dabigfocus.config.customization.related": "Отслеживать относительные координаты",
+  "dabigfocus.config.customization.x": "Координата X",
+  "dabigfocus.config.customization.y": "Координата Y",
+  "dabigfocus.config.customization.width": "Ширина",
+  "dabigfocus.config.customization.height": "Высота",
+  "dabigfocus.option.apply": "Применить",
+  "dabigfocus.option.fullscreen_mode": "Полноэкранный режим",
+  "dabigfocus.option.fullscreen_mode.tooltip": "Определяет функцию полноэкранного режима: безрамочный режим или нативный полноэкранный режим.",
+  "dabigfocus.option.fullscreen_mode.borderless": "Безрамочный",
+  "dabigfocus.option.fullscreen_mode.native": "Нативный"
+}

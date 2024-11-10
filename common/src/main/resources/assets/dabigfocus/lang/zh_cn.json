@@ -1,0 +1,14 @@
+{
+  "dabigfocus.config.customization.enabled": "启用自定义",
+  "dabigfocus.config.customization.related": "显示器相对坐标",
+  "dabigfocus.config.customization.x": "X 坐标",
+  "dabigfocus.config.customization.y": "Y 坐标",
+  "dabigfocus.config.customization.width": "宽度",
+  "dabigfocus.config.customization.height": "高度",
+  "dabigfocus.option.apply": "应用",
+  "dabigfocus.option.fullscreen_mode": "全屏模式",
+  "dabigfocus.option.fullscreen_mode.tooltip": "决定开启全屏后应使用无边框窗口全屏还是原生全屏。",
+  "dabigfocus.option.fullscreen_mode.borderless": "无边框",
+  "dabigfocus.option.fullscreen_mode.exclusive": "独占",
+  "dabigfocus.option.fullscreen_mode.native": "原生"
+}

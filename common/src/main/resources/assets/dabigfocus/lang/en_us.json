@@ -1,0 +1,14 @@
+{
+  "dabigfocus.config.customization.enabled": "Enable Customization",
+  "dabigfocus.config.customization.related": "Monitor Relative Coordinates",
+  "dabigfocus.config.customization.x": "X Coordinate",
+  "dabigfocus.config.customization.y": "Y Coordinate",
+  "dabigfocus.config.customization.width": "Width",
+  "dabigfocus.config.customization.height": "Height",
+  "dabigfocus.option.apply": "Apply",
+  "dabigfocus.option.fullscreen_mode": "Fullscreen Mode",
+  "dabigfocus.option.fullscreen_mode.tooltip": "Fullscreen mode determines the fullscreen function using borderless fullscreen or native fullscreen.",
+  "dabigfocus.option.fullscreen_mode.borderless": "Borderless",
+  "dabigfocus.option.fullscreen_mode.exclusive": "Exclusive",
+  "dabigfocus.option.fullscreen_mode.native": "Native"
+}
